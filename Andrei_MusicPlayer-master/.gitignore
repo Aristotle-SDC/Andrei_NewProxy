@@ -1,0 +1,5 @@
+/node_modules
+/client/dist/
+stressTest.yml
+newrelic_agent.log
+newrelic.js
