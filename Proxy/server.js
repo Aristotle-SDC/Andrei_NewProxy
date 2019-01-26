@@ -34,7 +34,7 @@ app.use('/api/jane/player/:id', (req, res) => {
 //   req.pipe(request(url)).pipe(res);
 // });
 
-// // thom's component
+ // thom's component
 // app.get('/api/thom/comments', (req, res) => {
 //   console.log('what?')
 //   db.GetAllComments( 
